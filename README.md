@@ -12,4 +12,4 @@ simple spanish programmer ☕.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id= juangc-zip&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=juangc-zip&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
